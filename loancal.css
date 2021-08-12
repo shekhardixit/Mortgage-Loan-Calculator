@@ -11,4 +11,18 @@
 
 h1{
     font-size: 40px;
+}#totalAmount{
+    height: 20px;
+    width: 175px;
+}
+
+#rate{
+    height: 20px;
+    width: 175px;
+    margin-left: 2px;
+}
+
+#months{
+    height: 20px;
+    width: 175px;
 }
