@@ -1,0 +1,14 @@
+#loancalc{
+    width: 375px;
+    height: 295px;
+    background-color: #056;
+    color: #d38;
+    margin-left: 275px;
+    margin-top: 95px;
+    padding-top: 20px;
+    padding-left: 90;
+}
+
+h1{
+    font-size: 40px;
+}
